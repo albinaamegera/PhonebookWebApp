@@ -250,3 +250,4 @@ C:\Users\user\source\repos\PhonebookWebApp\PhonebookWebApp\obj\Debug\net8.0\refi
 C:\Users\user\source\repos\PhonebookWebApp\PhonebookWebApp\obj\Debug\net8.0\PhonebookWebApp.pdb
 C:\Users\user\source\repos\PhonebookWebApp\PhonebookWebApp\obj\Debug\net8.0\PhonebookWebApp.genruntimeconfig.cache
 C:\Users\user\source\repos\PhonebookWebApp\PhonebookWebApp\obj\Debug\net8.0\ref\PhonebookWebApp.dll
+C:\Users\user\source\repos\PhonebookWebApp\PhonebookWebApp\obj\Debug\net8.0\PhonebookWebApp.sourcelink.json
