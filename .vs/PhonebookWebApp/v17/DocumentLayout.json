@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\PhonebookWebApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{38197CC2-CD87-429D-95DF-FD09CF4223FD}|PhonebookWebApp\\PhonebookWebApp.csproj|c:\\users\\user\\source\\repos\\phonebookwebapp\\phonebookwebapp\\views\\notes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{38197CC2-CD87-429D-95DF-FD09CF4223FD}|PhonebookWebApp\\PhonebookWebApp.csproj|solutionrelative:phonebookwebapp\\views\\notes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38197CC2-CD87-429D-95DF-FD09CF4223FD}|PhonebookWebApp\\PhonebookWebApp.csproj|c:\\users\\user\\source\\repos\\phonebookwebapp\\phonebookwebapp\\views\\notes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{38197CC2-CD87-429D-95DF-FD09CF4223FD}|PhonebookWebApp\\PhonebookWebApp.csproj|solutionrelative:phonebookwebapp\\views\\notes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{38197CC2-CD87-429D-95DF-FD09CF4223FD}|PhonebookWebApp\\PhonebookWebApp.csproj|c:\\users\\user\\source\\repos\\phonebookwebapp\\phonebookwebapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{38197CC2-CD87-429D-95DF-FD09CF4223FD}|PhonebookWebApp\\PhonebookWebApp.csproj|solutionrelative:phonebookwebapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38197CC2-CD87-429D-95DF-FD09CF4223FD}|PhonebookWebApp\\PhonebookWebApp.csproj|c:\\users\\user\\source\\repos\\phonebookwebapp\\phonebookwebapp\\controllers\\notescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38197CC2-CD87-429D-95DF-FD09CF4223FD}|PhonebookWebApp\\PhonebookWebApp.csproj|solutionrelative:phonebookwebapp\\controllers\\notescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38197CC2-CD87-429D-95DF-FD09CF4223FD}|PhonebookWebApp\\PhonebookWebApp.csproj|c:\\users\\user\\source\\repos\\phonebookwebapp\\phonebookwebapp\\views\\notes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38197CC2-CD87-429D-95DF-FD09CF4223FD}|PhonebookWebApp\\PhonebookWebApp.csproj|solutionrelative:phonebookwebapp\\views\\notes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{38197CC2-CD87-429D-95DF-FD09CF4223FD}|PhonebookWebApp\\PhonebookWebApp.csproj|c:\\users\\user\\source\\repos\\phonebookwebapp\\phonebookwebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{38197CC2-CD87-429D-95DF-FD09CF4223FD}|PhonebookWebApp\\PhonebookWebApp.csproj|solutionrelative:phonebookwebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38197CC2-CD87-429D-95DF-FD09CF4223FD}|PhonebookWebApp\\PhonebookWebApp.csproj|c:\\users\\user\\source\\repos\\phonebookwebapp\\phonebookwebapp\\models\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38197CC2-CD87-429D-95DF-FD09CF4223FD}|PhonebookWebApp\\PhonebookWebApp.csproj|solutionrelative:phonebookwebapp\\models\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{38197CC2-CD87-429D-95DF-FD09CF4223FD}|PhonebookWebApp\\PhonebookWebApp.csproj|c:\\users\\user\\source\\repos\\phonebookwebapp\\phonebookwebapp\\views\\notes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38197CC2-CD87-429D-95DF-FD09CF4223FD}|PhonebookWebApp\\PhonebookWebApp.csproj|solutionrelative:phonebookwebapp\\views\\notes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,20 +42,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
+              "Title": "NotesController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\PhonebookWebApp\\PhonebookWebApp\\Controllers\\NotesController.cs",
+              "RelativeDocumentMoniker": "PhonebookWebApp\\Controllers\\NotesController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\PhonebookWebApp\\PhonebookWebApp\\Controllers\\NotesController.cs",
+              "RelativeToolTip": "PhonebookWebApp\\Controllers\\NotesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T09:37:18.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\PhonebookWebApp\\PhonebookWebApp\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "PhonebookWebApp\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\user\\source\\repos\\PhonebookWebApp\\PhonebookWebApp\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "PhonebookWebApp\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAABiAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAABBAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-03-30T17:54:22.077Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\PhonebookWebApp\\PhonebookWebApp\\Views\\Notes\\Details.cshtml",
               "RelativeDocumentMoniker": "PhonebookWebApp\\Views\\Notes\\Details.cshtml",
@@ -68,28 +81,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\PhonebookWebApp\\PhonebookWebApp\\Views\\Notes\\Index.cshtml",
               "RelativeDocumentMoniker": "PhonebookWebApp\\Views\\Notes\\Index.cshtml",
               "ToolTip": "C:\\Users\\user\\source\\repos\\PhonebookWebApp\\PhonebookWebApp\\Views\\Notes\\Index.cshtml",
               "RelativeToolTip": "PhonebookWebApp\\Views\\Notes\\Index.cshtml",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAAC0AAAARAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAABHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-03-30T17:43:58.174Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Note.cs",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\PhonebookWebApp\\PhonebookWebApp\\Models\\Note.cs",
-              "RelativeDocumentMoniker": "PhonebookWebApp\\Models\\Note.cs",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\PhonebookWebApp\\PhonebookWebApp\\Models\\Note.cs",
-              "RelativeToolTip": "PhonebookWebApp\\Models\\Note.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-30T16:47:10.844Z",
               "EditorCaption": ""
             },
             {
@@ -100,7 +100,7 @@
               "RelativeDocumentMoniker": "PhonebookWebApp\\Program.cs",
               "ToolTip": "C:\\Users\\user\\source\\repos\\PhonebookWebApp\\PhonebookWebApp\\Program.cs",
               "RelativeToolTip": "PhonebookWebApp\\Program.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAACQAAAA1AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-30T16:44:06.926Z",
               "EditorCaption": ""
